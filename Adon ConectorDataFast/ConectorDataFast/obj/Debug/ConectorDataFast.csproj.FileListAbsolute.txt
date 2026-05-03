@@ -1,0 +1,3 @@
+C:\proyectos CRA\VELASCO\2025 proyecto Tarjetas de Credito\Pago en caja\ConectorDataFast\ConectorDataFast\obj\Debug\ConectorDataFast.csprojAssemblyReference.cache
+C:\proyectos CRA\VELASCO\2025 proyecto Tarjetas de Credito\Pago en caja\ConectorDataFast\ConectorDataFast\obj\Debug\ConectorDataFast.csproj.ResolveComReference.cache
+C:\proyectos CRA\VELASCO\2025 proyecto Tarjetas de Credito\Pago en caja\ConectorDataFast\ConectorDataFast\obj\Debug\ConectorDataFast.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\bin\x64\Debug\ConectorDataFast.exe.config
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\bin\x64\Debug\ConectorDataFast.exe
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\bin\x64\Debug\ConectorDataFast.pdb
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\ConectorDataFast.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\ConectorDataFast.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\ConectorDataFast.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\ConectorDataFast.exe
+C:\Users\Usuario\source\repos\ConectorDataFast\ConectorDataFast\obj\x64\Debug\ConectorDataFast.pdb
